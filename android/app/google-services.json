@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "43250350935",
+    "firebase_url": "https://redsunapi-user.firebaseio.com",
+    "project_id": "redsunapi-user",
+    "storage_bucket": "redsunapi-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43250350935:android:e7f7f6fa90240c85409c12",
+        "android_client_info": {
+          "package_name": "com.example.appclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43250350935-2phaa4l2m75v4vtrfsd0chop6ot5fpu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjSU4ldDrSq6GIAVYpVPSmM0OH7C26uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43250350935-2phaa4l2m75v4vtrfsd0chop6ot5fpu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43250350935-1s8o0bph21uri8r8aketu0vt7dlo9a1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43250350935:android:b1cfc3066ee8ebd3409c12",
+        "android_client_info": {
+          "package_name": "com.example.financeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43250350935-2phaa4l2m75v4vtrfsd0chop6ot5fpu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjSU4ldDrSq6GIAVYpVPSmM0OH7C26uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43250350935-2phaa4l2m75v4vtrfsd0chop6ot5fpu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43250350935-1s8o0bph21uri8r8aketu0vt7dlo9a1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
